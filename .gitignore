@@ -1,0 +1,13 @@
+.env
+.env.*
+*.pyc
+__pycache__/
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+Dockerfile
+docker-compose*.yml
+.DS_Store
+Thumbs.db
